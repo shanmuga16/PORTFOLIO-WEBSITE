@@ -1,4 +1,3 @@
-# PORTFOLIO-WEBSITE
 The personal portfolio website project, is a responsive and interactive digital resume built using Frontend Technologies.
 Project Overview
 The project, titled "PORTFOLIO WEBSITE," was built using a stack of HTML, CSS, and JavaScript. It is designed to professionally showcase the students' academic background, technical skills, and projects.
@@ -13,7 +12,7 @@ The website includes six main sections for navigation:
  * Projects
  * Contact
 Other key features are:
- * Responsive design for desktop.
+ * Responsive design for desktop and mobile.
  * Smooth scrolling navigation.
  * Interactive portfolio cards with hover effects.
  * A downloadable resume button.
